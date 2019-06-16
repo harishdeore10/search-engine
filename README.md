@@ -1,4 +1,4 @@
-Search Engine
+Search Engine : 
 Simple command line driven text search engine in Java 8.
 
 Table of content
